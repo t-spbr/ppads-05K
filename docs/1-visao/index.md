@@ -6,8 +6,8 @@ esperadas do sistema.
 
 ## Objetivos
 
-* Objetivo 1
-* Objetivo 2
+* possibilitar a gestão do processo de inovação  no que se relaciona à captação de ideias em ambiente colaborativo
+* possibilitar a gestão do processo de inovação  no que se relaciona ao desenvolvimento de ideias em ambiente colaborativo
 * Objetivo 3
 * etc.
 
